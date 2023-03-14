@@ -46,6 +46,6 @@ public class Lesson_1 {
 		}
 		System.out.println("min_value - " + minval);
 		System.out.println("max_value - " + maxval);
-		// first commit
+		
 	}
 }
